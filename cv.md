@@ -11,6 +11,7 @@
 - HTML
 - CSS/SCSS/SASS
 - Git
+- javascript
 
 ## __Example Code__
 {
